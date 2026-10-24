@@ -12,10 +12,10 @@ Paste a YouTube URL, and EchoNotes will download the audio, transcribe it with W
  
 | Name |
 |---|
-| [Prabhat Ranjan] |
-| [Rishita] |
-| [Sumit Kumar] |
-| [Tanish Singhroha] |
+| Prabhat Ranjan |
+| Rishita |
+| Sumit Kumar |
+| Tanish Singhroha |
 
 
 ## How It Works
