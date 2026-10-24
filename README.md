@@ -10,8 +10,8 @@ Paste a YouTube URL, and EchoNotes will download the audio, transcribe it with W
  
 **AADHAR CARD**, Electronics and Telecommunication, built for Tech Elevate 2026.
  
-| Name | Role |
-|---|---|
+| Name |
+|---|
 | [Prabhat Ranjan] |
 | [Rishita] |
 | [Sumit Kumar] |
