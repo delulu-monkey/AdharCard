@@ -6,6 +6,18 @@ Paste a YouTube URL, and EchoNotes will download the audio, transcribe it with W
 
 ---
 
+## Team
+ 
+**AADHAR CARD**, Electronics and Telecommunication, built for Tech Elevate 2026.
+ 
+| Name | Role |
+|---|---|
+| [Prabhat Ranjan] |
+| [Rishita] |
+| [Sumit Kumar] |
+| [Tanish Singhroha] |
+
+
 ## How It Works
 
 The system is a five-stage pipeline. Each stage is a standalone Python script that reads the output of the previous stage and writes its own output to disk.
@@ -211,3 +223,8 @@ GEMINI_MODEL=gemini-2.5-flash
 | `SPEED` | `30` | Replay speed multiplier (30 = 1 lecture minute per 2 real seconds). |
 | `WHISPER_MODEL` | `small` | Whisper model size for transcription. |
 | `COURSE` | `MIT 8.02: E&M` | Course context string passed to the LLM prompt. |
+
+## Acknowledgements
+ 
+[faster-whisper](https://github.com/SYSTRAN/faster-whisper), [OpenAI Whisper](https://arxiv.org/abs/2212.04356), [Ollama](https://ollama.com), [Qwen2.5](https://github.com/QwenLM/Qwen2.5), [FastAPI](https://fastapi.tiangolo.com), [uv](https://docs.astral.sh/uv/), the Arduino-ESP32 core, and the Adafruit and WebSockets libraries.
+
